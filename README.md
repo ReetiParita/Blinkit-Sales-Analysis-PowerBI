@@ -12,8 +12,5 @@ Project Objective: To analyze Blinkit’s outlet-level sales performance across 
 - Supermarket Type1 is the highest revenue generator
 - 2018 saw the highest outlet establishments
 
-## 📷 Dashboard Preview:
-![Dashboard Screenshot](Screenshot.png)
-
 ## ✅ Conclusion:
 This project helped me sharpen my dashboarding and storytelling skills using Power BI.
